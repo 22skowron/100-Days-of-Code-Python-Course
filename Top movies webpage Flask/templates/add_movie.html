@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %}Add movie{% endblock %}
+
+{% block content %}
+<div class="content" style="margin-top: 30px">
+
+
+    {{ render_form(form, novalidate=True) }}
+
+
+    <div class="container text-center add">
+        <a href="{{ url_for('home') }}" class="button">Return</a>
+    </div>
+
+</div>
+{% endblock %}

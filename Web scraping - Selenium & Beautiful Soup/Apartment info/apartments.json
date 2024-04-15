@@ -1,0 +1,222 @@
+{
+    "Apartment1": {
+        "address": "747 Geary Street, 747 Geary St, Oakland, CA 94609",
+        "price": "$2,895",
+        "offer_link": "https://www.zillow.com/b/747-geary-street-oakland-ca-CYzGVt/"
+    },
+    "Apartment2": {
+        "address": "Parkmerced | 3711 19th Ave, San Francisco, CA",
+        "price": "$2,810",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/parkmerced/5XjKHx/"
+    },
+    "Apartment3": {
+        "address": "845 Sutter, 845 Sutter St APT 509, San Francisco, CA",
+        "price": "$2,450",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/845-sutter/5XkKMm/"
+    },
+    "Apartment4": {
+        "address": "100 Van Ness, 100 Van Ness Ave #410, San Francisco, CA 94102",
+        "price": "$2,940",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/100-van-ness/5hJ5Sv/"
+    },
+    "Apartment5": {
+        "address": "828 Franklin, 828 Franklin St #606, San Francisco, CA 94102",
+        "price": "$2,395",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/828-franklin/5XkH2V/"
+    },
+    "Apartment6": {
+        "address": "923 Folsom, 923 Folsom St APT 506, San Francisco, CA 94107",
+        "price": "$2,816",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/923-folsom/5Yy6Np/"
+    },
+    "Apartment7": {
+        "address": "Hanover Soma West, 1140 Harrison St #138, San Francisco, CA 94103",
+        "price": "$2,974",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/hanover-soma-west/9NJsx9/"
+    },
+    "Apartment8": {
+        "address": "Slate Residences, 911 Bryant St #102, San Francisco, CA 94103",
+        "price": "$2,704",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/slate-residences/9NJxjf/"
+    },
+    "Apartment9": {
+        "address": "NorthPoint Apartments, 2211 Stockton St, San Francisco, CA 94133",
+        "price": "$2,810",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/northpoint-apartments/5XjLPJ/"
+    },
+    "Apartment10": {
+        "address": "The Landing | 1395 22nd St, San Francisco, CA",
+        "price": "$2,798",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/the-landing/9NK3gC/"
+    },
+    "Apartment11": {
+        "address": "1350 Washington Street | 1350 Washington St, San Francisco, CA",
+        "price": "$2,195",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/1350-washington-street/9NKDS7/"
+    },
+    "Apartment12": {
+        "address": "2775 Market St, 2775 Market St APT 102, San Francisco, CA 94114",
+        "price": "$2,995",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/2775-market-st/5XsQ4D/"
+    },
+    "Apartment13": {
+        "address": "Mt. Sutro, 480 Warren Dr #312, San Francisco, CA 94131",
+        "price": "$2,895",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/mt.-sutro/5XjVRC/"
+    },
+    "Apartment14": {
+        "address": "Konrad on the Park, 971 Eddy St #212, San Francisco, CA 94109",
+        "price": "$2,805",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/konrad-on-the-park/9NKJXS/"
+    },
+    "Apartment15": {
+        "address": "1188 Mission at Trinity Place | 1188 Mission St, San Francisco, CA",
+        "price": "$1914",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/1188-mission-at-trinity-place/5XjN4q/"
+    },
+    "Apartment16": {
+        "address": "Nob Hill Place, 1155 Jones St APT 208, San Francisco, CA 94109",
+        "price": "$2,950",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/nob-hill-place/5XkKgw/"
+    },
+    "Apartment17": {
+        "address": "Avalon Sunset Towers, 8 Locksley Ave, San Francisco, CA 94131",
+        "price": "$2,917",
+        "offer_link": "https://www.zillow.com/b/avalon-sunset-towers-san-francisco-ca-5XjLKv/"
+    },
+    "Apartment18": {
+        "address": "125-135 Gardenside, 125 Gardenside Dr, San Francisco, CA 94114",
+        "price": "$2,595",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/125.dash.135-gardenside/BjFbbM/"
+    },
+    "Apartment19": {
+        "address": "Freedom West, 820 McAllister St, San Francisco, CA 94102",
+        "price": "$2,000",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/freedom-west/5mmHmr/"
+    },
+    "Apartment20": {
+        "address": "Franklin St, 24 Franklin St #805, San Francisco, CA 94102",
+        "price": "$2,824",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/franklin-st/9NJqFL/"
+    },
+    "Apartment21": {
+        "address": "Loft 168, 168 Bluxome St, San Francisco, CA 94107",
+        "price": "$2,800",
+        "offer_link": "https://www.zillow.com/b/loft-168-san-francisco-ca-9NK42M/"
+    },
+    "Apartment22": {
+        "address": "Mosser Towers Apartments, 455 Eddy St APT E1102, San Francisco, CA 94102",
+        "price": "$2,450",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/mosser-towers-apartments/9NJr4f/"
+    },
+    "Apartment23": {
+        "address": "1029 Geary St., 1029 Geary St, San Francisco, CA 94109",
+        "price": "$2,095",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/1029-geary-st./5YCgZq/"
+    },
+    "Apartment24": {
+        "address": "33 8th at Trinity Place | 33 8th St, San Francisco, CA",
+        "price": "$2,298",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/33-8th-at-trinity-place/9NJw4S/"
+    },
+    "Apartment25": {
+        "address": "SoMa Square | 1 Saint Francis Pl, San Francisco, CA",
+        "price": "$2,809",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/soma-square/5Xj2Yr/"
+    },
+    "Apartment26": {
+        "address": "480 Potrero Ave, 480 Potrero Ave #610, San Francisco, CA 94110",
+        "price": "$2,495",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/480-potrero-ave/5mY4JQ/"
+    },
+    "Apartment27": {
+        "address": "The Mission | 240 Dolores St, San Francisco, CA",
+        "price": "$2,494",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/the-mission/5XjQJR/"
+    },
+    "Apartment28": {
+        "address": "L Seven | 1222 Harrison St, San Francisco, CA",
+        "price": "$2,775",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/l-seven/9NJtD7/"
+    },
+    "Apartment29": {
+        "address": "Palace Court Apartments | 555 Ofarrell St, San Francisco, CA",
+        "price": "$1,745",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/palace-court-apartments/5XjKSv/"
+    },
+    "Apartment30": {
+        "address": "2000 Post | 2000 Post St, San Francisco, CA",
+        "price": "$2,764",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/2000-post/5XjRNn/"
+    },
+    "Apartment31": {
+        "address": "HQ | 1532 Harrison St, San Francisco, CA",
+        "price": "$2,799",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/hq/9NJthZ/"
+    },
+    "Apartment32": {
+        "address": "AVA 55 Ninth | 55 9th St, San Francisco, CA",
+        "price": "$2,525",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/ava-55-ninth/5XkH8X/"
+    },
+    "Apartment33": {
+        "address": "The Bay | 2133 Stockton St, San Francisco, CA",
+        "price": "$2,199",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/the-bay/5Xhzkj/"
+    },
+    "Apartment34": {
+        "address": "Lofts at Seven | 277 Golden Gate Ave, San Francisco, CA",
+        "price": "$1,995",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/lofts-at-seven/5XmsgS/"
+    },
+    "Apartment35": {
+        "address": "347 Eddy St. | 347 Eddy St, San Francisco, CA",
+        "price": "$1,895",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/347-eddy-st./5XxfK3/"
+    },
+    "Apartment36": {
+        "address": "Solaire | 299 Fremont St, San Francisco, CA",
+        "price": "$2,898",
+        "offer_link": "https://www.zillow.com/b/solaire-san-francisco-ca-65g7KK/"
+    },
+    "Apartment37": {
+        "address": "Marina Cove Apartments, 1550 Bay St APT B225, San Francisco, CA 94123",
+        "price": "$2,999",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/marina-cove-apartments/5XjRBB/"
+    },
+    "Apartment38": {
+        "address": "Avalon Dogpatch, 800 Indiana St, San Francisco, CA 94107",
+        "price": "$2,830",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/avalon-dogpatch/5Yy5Rr/"
+    },
+    "Apartment39": {
+        "address": "The Gateway, 430 Davis Ct #3-0306, San Francisco, CA 94111",
+        "price": "$2,895",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/the-gateway/5Xkxvk/"
+    },
+    "Apartment40": {
+        "address": "50 Laguna, 50 Laguna St APT 604, San Francisco, CA 94102",
+        "price": "$2,775",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/50-laguna/5XjSDX/"
+    },
+    "Apartment41": {
+        "address": "The Fillmore Center, 1475 Fillmore St #S30305, San Francisco, CA 94115",
+        "price": "$2,998",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/the-fillmore-center/5XjVzy/"
+    },
+    "Apartment42": {
+        "address": "1333 Gough Apartments at Cathedral Hall, 1333 Gough St APT 1G, San Francisco, CA 94109",
+        "price": "$2,895",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/1333-gough-apartments-at-cathedral-hall/5XjRmn/"
+    },
+    "Apartment43": {
+        "address": "1177 Market at Trinity Place | 1177 Market St, San Francisco, CA",
+        "price": "$2,773",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/1177-market-at-trinity-place/BNjvdD/"
+    },
+    "Apartment44": {
+        "address": "300 Buchanan, 300 Buchanan St #202, San Francisco, CA 94102",
+        "price": "$2,975",
+        "offer_link": "https://www.zillow.com/apartments/san-francisco-ca/300-buchanan/5XjW2N/"
+    }
+}
