@@ -7,7 +7,7 @@ This repository contains various projects completed during [**Python Bootcamp co
 
 Further information on the projects is provided in their corresponding README files.
 
-Web development capstone project and data manipulation pracitce section of the course were moved to their separate repositories:
+Web development capstone project and data manipulation practice section of the course were moved to their separate repositories:
 
 - [**Data manipulation repo**](https://github.com/22skowron/Data-manipulation-practice "https://github.com/22skowron/Data-manipulation-practice")
 
