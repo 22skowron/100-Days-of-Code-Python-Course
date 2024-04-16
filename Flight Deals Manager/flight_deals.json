@@ -1,0 +1,14 @@
+{
+   "Flight1": {
+      "From": "Warsaw, WAW",
+      "To": "Paris, ORY",
+      "Departure date": "2024-05-16",
+      "Price": "49 EUR"
+   },
+   "Flight2": {
+      "From": "Warsaw, WAW",
+      "To": "Vienna, VIE",
+      "Departure date": "2024-05-13",
+      "Price": "163 EUR"
+   }
+}

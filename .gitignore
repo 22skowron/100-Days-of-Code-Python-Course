@@ -180,3 +180,7 @@ Linkedin_retrieve_job_offer_titles.py
 interaction.py
 tests.py
 Other/
+notification_manager.py
+testowy_plik.json
+json_test.py
+user_manager.py
