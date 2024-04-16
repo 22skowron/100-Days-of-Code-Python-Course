@@ -2,8 +2,8 @@
 
 This repository contains various projects completed during [**Python Bootcamp course on Udemy**](https://www.udemy.com/course/100-days-of-code "https://www.udemy.com/course/100-days-of-code"). The projects were organised into two main directories according to their complexity level:
 
-- _Beginner_
-- _Fully-fledged_
+- **_Beginner_**
+- **_Fully-fledged_**
 
 Further information on the projects is provided in their corresponding README files.
 
